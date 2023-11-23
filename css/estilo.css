@@ -212,7 +212,7 @@ h6 {
 #hero {
     width: 100%;
     height: 100vh;
-    background: url("../img/dev.jpg") top center;
+    background: url("../img/hero-bg2.jpg") top center;
     background-size: cover;        
 }
 #hero::before{
@@ -386,8 +386,8 @@ section {
     float: right;
     font-style: normal;
 }
-.skills .progress-bar {
-    background: #dce8f8;
+.skills .progress-bar-wrap {
+    background: #acacac;
     height: 10px;
 }
 .skills .progress-bar{
